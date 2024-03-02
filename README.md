@@ -15,5 +15,9 @@
 * Freeze
 * Fiery stream
 
-:black_square_button: делать или не делать, вот в чем вопрос?    
+
+**anxismore**
+:black_square_button: create simple movement
+:black_square_button: fix jump bug
+
 
