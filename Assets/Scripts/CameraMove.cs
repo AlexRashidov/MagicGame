@@ -6,7 +6,7 @@ public class CameraMove : MonoBehaviour
 {
     void Start()
     {
-        player = GameObject.FindGameObject("Player").transform;
+        //player = GameObject.FindGameObject("Player").transform;
     }
 
 }
