@@ -15,9 +15,14 @@
 * Freeze
 * Fiery stream
 
+<<<<<<< HEAD
 
 **anxismore**    
 :black_square_button: create simple movement    
 :black_square_button: fix jump bug    
 
 
+=======
+Develop Notes
+:black_square_button: делать или не делать, вот в чем вопрос?    
+>>>>>>> anxismore
