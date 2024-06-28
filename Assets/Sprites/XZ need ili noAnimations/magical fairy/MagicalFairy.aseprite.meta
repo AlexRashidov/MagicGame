@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: MagicalFairy_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 1
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: db0f5b08fbb9f7b4d96f2f1362b3062f
     - name: MagicalFairy_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 1
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: 0e8f53f926f9e474e9552562d5a2165d
     - name: MagicalFairy_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 3
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: fcc275ab91120fe40aabdcef341d431b
     - name: MagicalFairy_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 2

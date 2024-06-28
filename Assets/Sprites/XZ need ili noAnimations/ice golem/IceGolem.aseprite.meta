@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: IceGolem_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: 7c2a9946b6c1a4447bef79cdd714c44a
     - name: IceGolem_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: bbef09537b95d7346995cdce3c76b377
     - name: IceGolem_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: 08edee8aeefaf2e4ca5e3a368eeb6dc8
     - name: IceGolem_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0

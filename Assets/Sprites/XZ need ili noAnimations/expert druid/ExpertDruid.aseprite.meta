@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: ExpertDruid_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: 6da386240eff96949aa8214d5ce6eb4e
     - name: ExpertDruid_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: 253cffa5732670f4da80cd5ef98843e3
     - name: ExpertDruid_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: 8da4d037c7d663a478c1b337dee3908a
     - name: ExpertDruid_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
