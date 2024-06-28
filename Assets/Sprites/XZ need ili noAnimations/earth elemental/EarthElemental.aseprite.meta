@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: EarthElemental_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: d1985c1c7ac79274aa257bc8a0f1eb1a
     - name: EarthElemental_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: a5d439f40209d7748bfc5b5fe84abc4a
     - name: EarthElemental_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: c06ef105684649e4aa598cd8fceb7733
     - name: EarthElemental_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0

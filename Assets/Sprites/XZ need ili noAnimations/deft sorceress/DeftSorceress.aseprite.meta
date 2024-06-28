@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: DeftSorceress_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 0
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: 375c02fc867bd424da3fe12391d21ee1
     - name: DeftSorceress_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 0
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: a34a8f032b15db84c992b01325dd4191
     - name: DeftSorceress_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 0
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: b5bbb7b0920aa3e4480112d7cb2788aa
     - name: DeftSorceress_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 0

@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: GlowingWisp_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 0
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: 9111e4ec9802d9146bfd7137f5500d17
     - name: GlowingWisp_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 0
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: 7c08c41c1fce484489bddcdbc3d98af4
     - name: GlowingWisp_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 1
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: 00ef952d29d5b6f45a769edbfed0972e
     - name: GlowingWisp_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 0

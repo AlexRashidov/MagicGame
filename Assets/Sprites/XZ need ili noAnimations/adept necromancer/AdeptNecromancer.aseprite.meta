@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: AdeptNecromancer_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: 898b966400ed9ca4ab04f72d146c3a56
     - name: AdeptNecromancer_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: 976dfab5890ea1347af9dbfb90d2d188
     - name: AdeptNecromancer_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: 1c46c6308ddf87047ba9514674b7d722
     - name: AdeptNecromancer_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0

@@ -212,6 +212,7 @@ ScriptedImporter:
     cells:
     - name: GrizzledTreant_Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -220,6 +221,7 @@ ScriptedImporter:
       spriteId: c307c45a61b27fd43b898248606dc6c7
     - name: GrizzledTreant_Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
@@ -228,6 +230,7 @@ ScriptedImporter:
       spriteId: 5e13e3122cb34674991fbf26693ca600
     - name: GrizzledTreant_Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -236,6 +239,7 @@ ScriptedImporter:
       spriteId: fbf4c54977d07344baa383054bf7988b
     - name: GrizzledTreant_Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
